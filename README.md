@@ -1,2 +1,2 @@
-# Djangogirls
- 
+# djangogirls
+ Blog in django
